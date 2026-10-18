@@ -4,3 +4,4 @@ numpy
 joblib
 pdfplumber
 ftfy
+anthropic
