@@ -1,0 +1,13 @@
+{
+  "title": "HR MANAGER",
+  "categories": [
+    {"category": "HR", "probability": 0.0},
+    {"category": "...", "probability": 0.0},
+    {"category": "...", "probability": 0.0}
+  ],
+  "confident": true,
+  "experience": {"years": 0.0, "jobs_found": 0, "first_job_year": 0},
+  "level": {"value": "Mid", "basis": "years"},
+  "skills": {"listed": [], "mentioned_elsewhere": []},
+  "meta": {"n_words": 0, "sections_found": [], "analysis_date": "YYYY-MM-DD"}
+}
