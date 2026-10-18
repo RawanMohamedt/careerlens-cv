@@ -136,3 +136,4 @@ python test_pipeline.py cv.pdf       # + end-to-end test (needs models/)
 ## Notebook
 
 `notebooks/01_cv_module.ipynb` contains the full data audit, cleaning, experiments and model selection (run on Google Colab).
+https://huggingface.co/spaces/RawanMohamedt/careerlens
